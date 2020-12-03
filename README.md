@@ -1,8 +1,12 @@
 # Covid 19 Tracker 
 
 [link to Live Site!](https://soospitz.github.io/covid-tracker/)
+
+
 An application that allows users to search countries and display their data of Confirmed, Deaths, and Recovered Cases with graphs and charts.
+
 Implemented real-time [Covid-19 API](https://covid19.mathdro.id/api) using Chart.js, Material-UI and Hooks.
+
 Built with React, JavaScript, and CSS.
 
 ## Project Screen Shots
